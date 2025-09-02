@@ -12,4 +12,8 @@ Type 'quit' or 'exit' to end the session.
 
 Your question or sentence: 
 
-
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
